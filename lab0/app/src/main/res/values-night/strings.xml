@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnName">Start</string>
+    <string name="timeString">Time</string>
+    <string name="countString">Count</string>
+</resources>
