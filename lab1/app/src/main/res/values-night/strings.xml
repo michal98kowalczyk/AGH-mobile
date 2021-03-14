@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="result">0</string>
+    <string name="divide">/</string>
+    <string name="percent">%</string>
+    <string name="sqrt">sqrt</string>
+    <string name="s7">7</string>
+    <string name="s9">9</string>
+    <string name="multiply">*</string>
+    <string name="s4">4</string>
+    <string name="s5">5</string>
+    <string name="s6">6</string>
+    <string name="subtraction">-</string>
+    <string name="s1">1</string>
+    <string name="s2">2</string>
+    <string name="s3">3</string>
+    <string name="addition">+</string>
+    <string name="clear">C</string>
+    <string name="s0">0</string>
+    <string name="sDot">.</string>
+    <string name="equal">=</string>
+</resources>

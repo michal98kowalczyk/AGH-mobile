@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Michal_Kowalczyk_wt_14_Calculator"
