@@ -5,14 +5,10 @@ interface CalculatorInterface {
 
     fun evaluate()
     fun clear()
-    fun add()
-    fun subtract()
-    fun multiply()
-    fun divide()
-    fun dot()
-    fun percent()
+    fun pushDigit(char: Char)
+    fun pushOperation(char: Char)
     fun sqrt()
-
+    fun percent()
 
 
 
