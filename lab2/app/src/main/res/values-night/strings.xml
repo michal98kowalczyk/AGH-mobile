@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Michal_Kowalczyk_wt_14</string>
+    <string name="sRates">Exchange Rates</string>
+    <string name="sGold">Gold Rates</string>
+    <string name="sExchange">Cantor</string>
+    <string name="ratesName">Exchange Rates</string>
+    <string name="sLastRate">Last </string>
+    <string name="sWeekRate">Week </string>
+    <string name="sIsLoading">...</string>
+    <string name="goldName">Gold Rates</string>
+    <string name="sCurrentRate">Now</string>
+    <string name="sMonthRate">Month</string>
+    <string name="cantorName">Cantor</string>
+    <string name="sError">Error! Try again.</string>
+    <string name="sPLN">PLN</string>
+    <string name="sOther">Other</string>
+    <string name="sCode">Name</string>
+    <string name="sRate">0.00</string>
+</resources>
